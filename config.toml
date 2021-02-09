@@ -1,0 +1,4 @@
+baseURL = "https://curtain-homequu.vercel.app"
+languageCode = "en-us"
+title = "Curtains Types Style"
+theme = "hugo-theme-minos"
